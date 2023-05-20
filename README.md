@@ -74,22 +74,11 @@ Tracking problems with your period is important because bad periods are not some
 *	Consult with women’s health expert via video or live chat
 
 
-### ✨ Features
-* Augmented Reality Bhagavad Gita Meditation 🧘‍♂️
-* Connect with ISKCON spiritual events near you 🔗
-* Interactive Gita stories for children and students ✍️
-* Pomodoro feature(with timer) along with reading Bhagavad Gita shloks in the breaks⌛
-* Stress buster spiritual games 🎮
-* Bhagavad Gita quiz 🤔
-* Random Bhagavad Gita shlok generator with meaning, along with sharing to twitter functionality 🌟
-* Rejuvenate section for watching inspirational videos by spiritual leaders ☮️
-
-
 ## Doubts
 
 If there are any doubts you can reach me out on LinkedIn
 
-[![LinkedIn]([https://img.shields.io/badge/Follow%20on-LinkedIn-blue](https://www.linkedin.com/in/padmesh-sharma/))
+[![LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-blue)](https://www.linkedin.com/in/padmesh-sharma/))
 
 ## Built With
 
