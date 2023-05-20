@@ -42,6 +42,9 @@ Periods isn’t a thing to be shamed of , Sanitary pads aren’t a thing to be c
 Even if your cycle is regular, charting your menstrual cycle is a good way to identify other gynecological health issues you may not be aware of. If you're someone who deals with a reproductive issue like endometriosis, fibroids, or polycystic ovary syndrome (PCOS), understanding your cycle as much as possible has major benefits. And of course, if you’re trying to get pregnant or trying to avoid pregnancy at all costs, knowing information like when you ovulate can help you on your journey. For example, if you’re feeling anxious or depressed or have persistent bloating, you might have a condition like premenstrual dysphoric disorder
 Tracking what happens in your body each month also helps your doctor diagnose the reason you are not getting pregnant when you want to, since it can reveal if you are not ovulating, if you are having a short second part (luteal phase) of your cycle, or even if you have polycystic ovary syndrome or another hormone imbalance.
 Not only can the app help women who are avoiding or attempting pregnancy, but it also helps those who are undergoing fertility treatments such as intrauterine insemination and in vitro fertilization.
+<p align="center">
+ <img src="background.jpeg" width="150"/>
+</p>
 Tracking problems with your period is important because bad periods are not something you need to suffer through. If the next time you see your doctor you point out painful cramps or long bleeding days you have tracked, they may be able to suggest lifestyle changes or medicines to make things better for you. For example, a change in your cycle might suggest that you have fibroids, a vaginal infection, pelvic inflammatory disease, or endometriosis. In rare cases, it can be a flag for endometrial cancer.
 
 
