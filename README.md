@@ -2,11 +2,11 @@
 Menstruation is still a taboo in society, primarily involves stigma around discussing and caring for menstrual needs. Only 57.6 per cent women in India use sanitary napkins and 23 million girls drop out of school annually after they start their periods. This website will help in generating awareness by tracking period dates, predicting potential dates, predicting potential ovulation date, identify gynecological issue if any, tips and articles about hygiene, sexual and reproduction issues and a way to connect to renowned sex educators anonymously.
 <div align="center">
  <h1>MENSES</h1>
- <a href="https://github.com/PadmeshSharma/Menses-Project/issues"><img src="https://img.shields.io/github/issues/akshitagupta15june/Moksh"></a>
-<a href="https://github.com/PadmeshSharma/Menses-Project/pulls"><img src="https://img.shields.io/github/issues-pr/akshitagupta15june/Moksh"></a>
-<a href="https://github.com/PadmeshSharma/Menses-Project/network/members"><img src="https://img.shields.io/github/forks/akshitagupta15june/Moksh"></a>
-<a href="https://github.com/PadmeshSharma/Menses-Project/stargazers"><img src="https://img.shields.io/github/stars/akshitagupta15june/Moksh"></a>
-<a href="https://github.com/PadmeshSharma/Menses-Project/blob/master/LICENSE"><img src="https://img.shields.io/github/license/akshitagupta15june/Moksh"></a>
+ <a href="https://github.com/PadmeshSharma/Menses-Project/issues"><img src="https://img.shields.io/github/issues/PadmeshSharma/Menses-Project"></a>
+<a href="https://github.com/PadmeshSharma/Menses-Project/pulls"><img src="https://img.shields.io/github/issues-pr/PadmeshSharma/Menses-Project"></a>
+<a href="https://github.com/PadmeshSharma/Menses-Project/network/members"><img src="https://img.shields.io/github/forks/PadmeshSharma/Menses-Project"></a>
+<a href="https://github.com/PadmeshSharma/Menses-Project/stargazers"><img src="https://img.shields.io/github/stars/PadmeshSharma/Menses-Project"></a>
+<a href="https://github.com/PadmeshSharma/Menses-Project/blob/master/LICENSE"><img src="https://img.shields.io/github/license/PadmeshSharma/Menses-Project"></a>
 <p align="center">
  <img src="Images/cramps.png" width="150"/>
  <img src="Images/moksh.jpeg" width="150"/> 
@@ -50,29 +50,29 @@ Tracking problems with your period is important because bad periods are not some
 
 
 ### Final Outlook
-•	Register with Social Profile
+*	Register with Social Profile
 *	View Fertility window
 *	Check cycle & get estimated date of the next menstruation
-•	Get suggestions about upcoming PMS
-•	Show number of days left before the next period
-•	Push Notification to make daily log entries
-•	Push Notifications for onset of the next phase of the cycle
-•	Reminders to enter moods and take medications
-•	Create Detailed health profile with details like: Weight, Height, Ailments, Allergies, Period date
-•	Show days favorable for conception in fertility calendar
-•	Get notification for upcoming periods, ovulation and fertility
-•	Option to log symptoms to get improved predictions if the user have irregular periods
-•	Countdown to the birth of the baby
-•	Track weeks of pregnancy
-•	Graphical view of insights like baby’s growth
-•	View graphs of cycle, ovulation, fertility, and symptoms history
-•	Log cycle and period duration, weight changes, and activity during the cycle
-•	Get Medical and scientific information regarding periods and pregnancy
-•	Receive daily health tips based on your data
-•	Integrate app with Fitbit or other devices
-•	Detect moods, physical and emotional patterns
-•	Generate health report for doctor consultation
-•	Consult with women’s health expert via video or live chat
+*	Get suggestions about upcoming PMS
+*	Show number of days left before the next period
+*	Push Notification to make daily log entries
+*	Push Notifications for onset of the next phase of the cycle
+*	Reminders to enter moods and take medications
+*	Create Detailed health profile with details like: Weight, Height, Ailments, Allergies, Period date
+*	Show days favorable for conception in fertility calendar
+*	Get notification for upcoming periods, ovulation and fertility
+*	Option to log symptoms to get improved predictions if the user have irregular periods
+*	Countdown to the birth of the baby
+*	Track weeks of pregnancy
+*	Graphical view of insights like baby’s growth
+*	View graphs of cycle, ovulation, fertility, and symptoms history
+*	Log cycle and period duration, weight changes, and activity during the cycle
+*	Get Medical and scientific information regarding periods and pregnancy
+*	Receive daily health tips based on your data
+*	Integrate app with Fitbit or other devices
+*	Detect moods, physical and emotional patterns
+*	Generate health report for doctor consultation
+*	Consult with women’s health expert via video or live chat
 
 
 ### ✨ Features
