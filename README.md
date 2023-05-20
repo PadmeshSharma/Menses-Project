@@ -13,7 +13,7 @@ Menstruation is still a taboo in society, primarily involves stigma around discu
  <img src="Images/rejuvenate.png" width="150"/>
 </p>
 
-### _Enhance your menstural health with Menses!_
+### _Enhance your menstrual health with Menses!_
 
 
 </div>
@@ -24,11 +24,8 @@ Menstruation is still a taboo in society, primarily involves stigma around discu
 ### Introduction
 
 <p align="center">
-  <img src="Images/anxiety.png" width="150"/>
-  <img src="Images/ANGRY.png" width="150"/> 
-  <img src="Images/compare.png" width="150"/>
-  <img src="Images/fear.png" width="150"/>
-  <img src="Images/ego.png" width="150"/>
+  <img src="Cramps.jpeg" width="150"/>
+  <img src="menstruation-complicationsjj.jpeg" width="150"/> 
 </p>
 Periods? Shhh ..... Don’t say it loudly . What if any male member of family hear this ? It’s definitely not sounding weird .Coz it’s normalized in a desi household.This stigma make us understand that menstrual cycle is something to be hidden or to be ashamed of. When actually it isn’t.
 Mensturation or Periods is still a taboo in today’s society. The menstruation taboo extends to many parts of a woman’s physiology and sexuality, but it primarily involves the stigma around discussing and caring for menstrual needs. This taboo often leads to the exclusion of women from social, domestic, and educational activities. The taboo also makes people feel like the topic of periods is uncomfortable, embarrassing, and even dangerous to discuss in some societies. This often leads women to use code words or slang to refer to periods.
