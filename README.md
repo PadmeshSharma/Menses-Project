@@ -78,7 +78,7 @@ Tracking problems with your period is important because bad periods are not some
 
 If there are any doubts you can reach me out on LinkedIn
 
-[![LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-blue)](https://www.linkedin.com/in/padmesh-sharma/))
+[![LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-blue)](https://www.linkedin.com/in/padmesh-sharma/)
 
 ## Built With
 
