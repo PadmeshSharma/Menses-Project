@@ -13,9 +13,8 @@ Menstruation is still a taboo in society, primarily involves stigma around discu
  <img src="Images/rejuvenate.png" width="150"/>
 </p>
 
-### _Unlock your potential and achieve true balance in life with Moksh!_
- <h3>Join official <a href="https://discord.com/invite/Jmc97prqjb">Discord Channel</a> for discussion</h3>
- <h2>Watch this <a href="https://youtu.be/wfdF___qNME">Video</a> to know about Moksh</h2>
+### _Enhance your menstural health with Menses!_
+
 
 </div>
 
@@ -90,7 +89,7 @@ Tracking problems with your period is important because bad periods are not some
 
 If there are any doubts you can reach me out on LinkedIn
 
-[![LinkedIn](https://img.shields.io/badge/Join%20our-Discord-%237289DA)](https://discord.gg/Jmc97prqjb)
+[![LinkedIn]([https://img.shields.io/badge/Follow%20on-LinkedIn-blue](https://www.linkedin.com/in/padmesh-sharma/)
 
 ## Built With
 
