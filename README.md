@@ -8,9 +8,8 @@ Menstruation is still a taboo in society, primarily involves stigma around discu
 <a href="https://github.com/PadmeshSharma/Menses-Project/stargazers"><img src="https://img.shields.io/github/stars/PadmeshSharma/Menses-Project"></a>
 <a href="https://github.com/PadmeshSharma/Menses-Project/blob/master/LICENSE"><img src="https://img.shields.io/github/license/PadmeshSharma/Menses-Project"></a>
 <p align="center">
- <img src="Images/cramps.png" width="150"/>
- <img src="Images/moksh.jpeg" width="150"/> 
- <img src="Images/rejuvenate.png" width="150"/>
+ <img src="pads.jpeg" width="150"/>
+ <img src="tampons.jpeg" width="150"/> 
 </p>
 
 ### _Enhance your menstrual health with Menses!_
