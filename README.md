@@ -126,7 +126,7 @@ $ git clone https://github.com/akshitagupta15june/Moksh.git
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-See the [open issues](https://github.com/akshitagupta15june/Moksh/issues) for a list of proposed features (and known issues). You can start by solving the issues marked as **good first issue**.
+See the [open issues](https://github.com/PadmeshSharma/Menses-Project/issues) for a list of proposed features (and known issues). You can start by solving the issues marked as **good first issue**.
 
 - If you have any suggestions in the projects, like reporting a bug, improving UI, or improving the README.md file, feel free to **open an issue** to discuss it, or directly create a pull request with the necessary changes.
 - Please make sure you check your spelling and grammar.
@@ -138,7 +138,7 @@ See the [open issues](https://github.com/akshitagupta15june/Moksh/issues) for a 
 2. Clone your forked repository
 
 ```sh
-$ git clone https://github.com/<your_github_username>/Moksh.git
+$ git clone https://github.com/<your_github_username>/Menses.git
 ```
 
 3. Make the required changes and stage them (`git add .`) or (`git add <file>`)
