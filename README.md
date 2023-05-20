@@ -51,8 +51,8 @@ Tracking problems with your period is important because bad periods are not some
 
 ### Final Outlook
 •	Register with Social Profile
-•	View Fertility window
-•	Check cycle & get estimated date of the next menstruation
+*	View Fertility window
+*	Check cycle & get estimated date of the next menstruation
 •	Get suggestions about upcoming PMS
 •	Show number of days left before the next period
 •	Push Notification to make daily log entries
