@@ -160,6 +160,6 @@ Please ensure you follow the [Code of Conduct](https://github.com/PadmeshSharma/
 
 [Padmesh Sharma](https://github.com/PadmeshSharma)
 
-### Show some ❤️ by starring this awesome repository!
+### Show some ❤️ by starring <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> this awesome repository!
 
 </div>
